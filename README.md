@@ -1,8 +1,8 @@
 ### Olá, Eu sou o William Matheus 👋🏾 
 
+## Acompanha minha vida no
 [![LinKedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/william-matheus-7910a41a3)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/william.matheuss?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/WMATHEUX17?t=3__rEElMKutmsQaI-pil2w&s=09)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/owilliam3?igshid=OGQ5ZDc2ODk2ZA==)
 
 ![William-Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Matheus&show_icons=true&theme=gruvbox)
 
@@ -28,9 +28,5 @@ alt="Node.Js"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badg
 <div style="display: inline_block"><br/>
 <img align="center" alt="Python"src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
-
-## Acompanha minha vida no
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/owilliam3?igshid=OGQ5ZDc2ODk2ZA==)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/william-matheus-7910a41a3)
 
 ## O que o futuro me reserva?...
