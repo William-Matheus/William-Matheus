@@ -29,7 +29,8 @@ alt="Node.Js"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badg
 <img align="center" alt="Python"src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
 
-## Contato pelo 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](williammatheusyt@gmail.com)
+## Acompanha minha vida no
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/owilliam3?igshid=OGQ5ZDc2ODk2ZA==)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/william-matheus-7910a41a3)
 
 ## O que o futuro me reserva?...
